@@ -19,6 +19,7 @@ Welcome to the Data Analysis Projects repository! This collection features vario
 12. [Census Data Analysis](https://github.com/AnoopGeorge418/Data-Analysis-Projects/tree/main/Census-DataAnalysis) - Analyzing census of india data based on some questions.
 13. [Udemy Courses Data Analysis](https://github.com/AnoopGeorge418/Data-Analysis-Projects/tree/main/Udemy_course-DataAnalysis) - Analyzing udemy courses data based on some questions.
 14. [Netflix Data Analysis](https://github.com/AnoopGeorge418/Data-Analysis-Projects/tree/main/Netflix-DataAnalysis) - Analyzing netflix data based on some questions.
+15. [Diwali Sales Analysis](https://github.com/AnoopGeorge418/Data-Analysis-Projects/tree/main/Diwali-Sales-Analysis) - Analyzing diwali sales data and finding who purchased highly.
 
 # 2. Web Scraping Using Python Projects:
 1. [Scraping Github Pages](https://github.com/AnoopGeorge418/Data-Analysis-Projects/tree/main/Web-Scraping-Github) - Scraping github topics pages and repos using python, requests, and Beautifulsoup.
