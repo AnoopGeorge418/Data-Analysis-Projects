@@ -22,6 +22,7 @@ Welcome to the Data Analysis Projects repository! This collection features vario
 15. [Diwali Sales Analysis](https://github.com/AnoopGeorge418/Data-Analysis-Projects/tree/main/Diwali-Sales-Analysis) - Analyzing diwali sales data and finding who purchased highly.
 16. [Zomato Dataset Analysis](https://github.com/AnoopGeorge418/Data-Analysis-Projects/tree/main/Zomato-DataSet-Analysis) - Analyzing zomato data, visualizing finding insights from it.
 17. [BlackFriday Dataset Analysis](https://github.com/AnoopGeorge418/Data-Analysis-Projects/tree/main/BlackFriday-Data-Analysis) - Analyzing black friday sales data, visualizing finding insights from it and preparing it for training by scaling and splitting data.
+18. [Flight Prediction Dataset Analysis](https://github.com/AnoopGeorge418/Data-Analysis-Projects/tree/main/Flight-Price-Prediction-Analysis) - Analyzing black flight price data, visualizing finding insights from it and preparing it for training by scaling and splitting data.
 
 # 2. Web Scraping Using Python Projects:
 1. [Scraping Github Pages](https://github.com/AnoopGeorge418/Data-Analysis-Projects/tree/main/Web-Scraping-Github) - Scraping github topics pages and repos using python, requests, and Beautifulsoup.
