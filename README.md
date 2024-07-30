@@ -3,8 +3,9 @@
 Welcome to the Data Analysis Projects repository! This collection features various data analysis projects covering different topics and difficulty levels.
 
 ## Table of Contents
+# 1. 1. Data Analytics Using Excel Projects:
 
-# 1. Data Analytics Using Python Projects:
+# 2. Data Analytics Using Python Projects:
 1. [Adult Data](https://github.com/AnoopGeorge418/Data-Repo/tree/main/Adult-Data) - Analyzing Adults data.
 2. [Covid-19](https://github.com/AnoopGeorge418/Data-Repo/tree/main/Covid-19) - Analyzing Covid data and finding the Trend in Deaths, Recovers, Confirmed... With the help of visualization.
 3. [Data Visualization using Iris](https://github.com/AnoopGeorge418/Data-Repo/tree/main/DataVisualization%20using%20iris) - Analyzing Iris data and visualization it to Understand Data Analytics.
@@ -25,7 +26,7 @@ Welcome to the Data Analysis Projects repository! This collection features vario
 18. [Flight Prediction Dataset Analysis](https://github.com/AnoopGeorge418/Data-Repo/tree/main/Flight-Price-Prediction-Analysis) - Analyzing black flight price data, visualizing finding insights from it and preparing it for training by scaling and splitting data.
 19. [Zomato Data](https://github.com/AnoopGeorge418/Data-Repo/tree/main/Zomato-Data) - Analyzing zomato data, cleaning it , performing eda and finding insight from it.
 
-# 2. Web Scraping Using Python Projects:
+# 3. Web Scraping Using Python Projects:
 1. [Scraping Github Pages](https://github.com/AnoopGeorge418/Data-Repo/tree/main/Web-Scraping-Github) - Scraping github topics pages and repos using python, requests, and Beautifulsoup.
 2. [Scraping Github ML Repos](https://github.com/AnoopGeorge418/Data-Repo/tree/main/Scraping-ML-Topic-From-Github) - Scraping github ML repos using python, requests, and Beautifulsoup.
 3. [Scraping Multiple Pages](https://github.com/AnoopGeorge418/Data-Repo/tree/main/Scraping-Multiple-Pages) - Scraping multiple pages to get info about books using python, requests, and Beautifulsoup.
