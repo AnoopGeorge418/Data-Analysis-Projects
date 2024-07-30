@@ -46,7 +46,7 @@ Each project is contained within its own repository. Navigate to the project rep
 Contributions are welcome! If you'd like to add your own Front-end back-end project or improve an existing one, follow these steps:
 
 - Fork this repository.
-- Create a new branch (git checkout -b feature/your-project-name).
+- Create a new branch (git checkout -b feature/your-project-name). 
 - Make your changes. 
 - Commit your changes (git commit -am 'Add your message here').
 - Push to the branch (git push origin feature/your-project-name).
