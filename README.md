@@ -47,9 +47,9 @@ Contributions are welcome! If you'd like to add your own Front-end back-end proj
 
 - Fork this repository.
 - Create a new branch (git checkout -b feature/your-project-name). 
-- Make your changes. 
+- Make your changes.  
 - Commit your changes (git commit -am 'Add your message here').
-- Push to the branch (git push origin feature/your-project-name).
+- Push to the branch (git push origin feature/your-project-name). 
 - Create a new Pull Request.
 
 Please adhere to the project's coding standards and include appropriate documentation with your project.
